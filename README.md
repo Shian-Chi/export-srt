@@ -1,6 +1,4 @@
 
-
-```markdown
 # 提取影片字幕的Python腳本
 
 此Python腳本用於從指定的影片中提取字幕並保存為 `.srt` 格式文件，方便您進一步處理或編輯字幕。
@@ -95,6 +93,19 @@ cd your-repo-url
 
 - **版本**：1.0.0
 - **日期**：2024 年 10 月 14 日
-- **作者**：Sian-Ci Cheng
+- **作者**：您的姓名
 
+## 聯繫方式
 
+如果您有任何問題或建議，請聯繫：
+
+- **電子郵件**：your.email@example.com
+- **GitHub**：https://github.com/your-github-profile
+
+## 授權
+
+此腳本基於 MIT 授權條款發布。詳情請參閱 [LICENSE](LICENSE) 文件。
+
+---
+
+**感謝您使用此腳本！希望它能幫助您輕鬆提取影片字幕。**
