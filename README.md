@@ -51,21 +51,19 @@ cd your-repo-url
 1. **準備影片文件**：
 
    - 將影片文件（如 `DJI_0132.MP4`）存放在對應的路徑下：  
-     `/home/ubuntu/大疆影片/0132/`
+     `/home/ubuntu/Video/`
 
 2. **執行腳本**：
 
    在終端中運行以下命令：
 
    ```bash
-   python your_script_name.py
+   exportSrt.py
    ```
-
-   **注意**：請將 `your_script_name.py` 替換為實際的腳本文件名。
 
 3. **查看輸出結果**：
 
-   如果成功提取，字幕將保存為 `/home/ubuntu/大疆影片/0132/DJI_0132srt`。
+   如果成功提取，字幕將保存為 `/home/ubuntu/Video/DJI_0132srt`。
 
 ## 腳本邏輯
 
@@ -93,19 +91,4 @@ cd your-repo-url
 
 - **版本**：1.0.0
 - **日期**：2024 年 10 月 14 日
-- **作者**：您的姓名
-
-## 聯繫方式
-
-如果您有任何問題或建議，請聯繫：
-
-- **電子郵件**：your.email@example.com
-- **GitHub**：https://github.com/your-github-profile
-
-## 授權
-
-此腳本基於 MIT 授權條款發布。詳情請參閱 [LICENSE](LICENSE) 文件。
-
----
-
-**感謝您使用此腳本！希望它能幫助您輕鬆提取影片字幕。**
+- **作者**：Sian-Ci Cheng
